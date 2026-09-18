@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudentWallet.Tests/StudentWallet.Tests.csproj" />
+  <Project Path="StudentWallet/StudentWallet.csproj" />
+</Solution>

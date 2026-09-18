@@ -1,0 +1,11 @@
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.deps.json
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.dll
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.pdb
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfoInputs.cache
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfo.cs
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.dll
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\refint\ClassLibrary1.dll
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.pdb
+Z:\git\st-nunit-basics-csharp\StudentWallet\ClassLibrary1\obj\Debug\net10.0\ref\ClassLibrary1.dll
