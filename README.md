@@ -84,7 +84,7 @@ Aturan bisnis:
 5. *Top up* menambah saldo dan pembayaran mengurangi saldo.
 6. Operasi yang ditolak tidak boleh mengubah saldo.
 
-### 2. Membaca Kode Produksi
+### 2. Membaca Kode
 
 Buka `src/CampusWallet.Domain/CampusWallet.cs`.
 
