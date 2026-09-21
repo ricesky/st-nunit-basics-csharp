@@ -1,6 +1,6 @@
 ﻿namespace Parking.Domain;
 
-public class Class1
+public class ParkingTicket
 {
 
 }

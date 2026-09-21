@@ -1,6 +1,6 @@
 ﻿namespace Cafeteria.Domain;
 
-public class Cafeteria
+public class CafeteriaOrder
 {
 
 }

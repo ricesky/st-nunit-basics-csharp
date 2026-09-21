@@ -1,6 +1,6 @@
 ﻿namespace CampusWallet.Domain;
 
-public class Class1
+public class CampusWallet
 {
 
 }
